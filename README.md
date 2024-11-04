@@ -2,7 +2,7 @@
 
 ## Full Stack Developer And DevOps Engineer
 
-Currently working at [Cobra Systems] (https://cobrasystems.nl) And Cobra Climate [Cobra Climate] (https://cobraclimate.com)
+Currently working at [Cobra Systems](https://cobrasystems.nl) And Cobra Climate[Cobra Climate] (https://cobraclimate.com)
 
 - 🌍  I'm based in Netherlands
 - 🖥️  See my portfolio at [OpenDatabaseDiagrams](http://github.com/Mark5795/OpenDatabaseDiagrams)
