@@ -5,7 +5,7 @@
 Currently working at [Cobra Systems](https://cobrasystems.nl) And [Cobra Climate](https://cobraclimate.com)
 
 - 🌍  I'm based in Netherlands
-- 🖥️  See my portfolio at [OpenDatabaseDiagrams](http://github.com/Mark5795/OpenDatabaseDiagrams)
+- 🖥️  See my portfolio at [markkea.nl](https://markkea.nl/)
 - 🧠  I'm learning Nuxt 4
 
 ### Skills
